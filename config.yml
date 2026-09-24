@@ -57,7 +57,7 @@ params:
 
     socialIcons:
         - name: GoogleScholar
-          url: https://scholar.google.com/citations?user=YOUR_ID
+          url: https://scholar.google.com/citations?user=N9D2wG4AAAAJ&hl=en
         - name: ORCID
           url: https://orcid.org/0009-0001-0965-9157
         - name: PhilPeople
