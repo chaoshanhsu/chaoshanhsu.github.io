@@ -43,7 +43,7 @@ params:
     profileMode:
           enabled: true
           title: Chao-Shan Hsu
-          subtitle: "I am a doctoral researcher in art history at the University of Vienna, supervised by [Raphael Rosenberg](https://kunstgeschichte.univie.ac.at/personen/professoreninnen/rosenberg-raphael/). As an art historian, I work on cross-cultural art perception using eye-tracking, and on the conceptual history of culture and perception. As a philosopher, I work on aesthetic imagination and aesthetic judgement. For a comprehensive introduction to my research, see [Research](/research/)."
+          subtitle: "I am a doctoral researcher in art history at the University of Vienna, supervised by [**Raphael Rosenberg**](https://kunstgeschichte.univie.ac.at/personen/professoreninnen/rosenberg-raphael/). As an art historian, I work on cross-cultural art perception using eye-tracking, and on the conceptual history of culture and perception. As a philosopher, I work on aesthetic imagination and aesthetic judgement. For a comprehensive introduction to my research, see [**Research**](/research/)."
           imageUrl: /picture.jpg
           imageWidth: 250
           imageHeight: 250
