@@ -35,8 +35,7 @@
 .profile img {
     border-radius: 16px;
     border: 1px solid var(--border);
-    object-fit: cover;
-    object-position: center top;
+    height: auto !important;
 }
 
 /* Buttons */
