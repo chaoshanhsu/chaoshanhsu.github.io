@@ -20,7 +20,7 @@ menu:
           weight: 4
 
 params:
-    description: "Chao-Shan Hsu is a doctoral researcher in art history at the University of Vienna, working on the normative and cultural conditions of aesthetic perception."
+    description: "I am a doctoral researcher in art history at the University of Vienna, supervised by Raphael Rosenberg. As an art historian, I work on cross-cultural art perception and the conceptual history of how \"culture\" and \"perception\" have been used across disciplines. As a philosopher, I work on aesthetic imagination and aesthetic judgement."
     author: Chao-Shan Hsu
     images: [cover.png]
     DateFormat: January 2006
@@ -43,7 +43,7 @@ params:
     profileMode:
           enabled: true
           title: Chao-Shan Hsu
-          subtitle: "I am a doctoral researcher in art history at the University of Vienna, working at the intersection of analytic aesthetics, philosophy of perception, and empirical cognitive science. My research investigates the normative and cultural conditions of aesthetic perception—how cultural training shapes the way we see art, and what philosophical consequences follow. I combine eye-tracking methodology with philosophical argumentation."
+          subtitle: "I am a doctoral researcher in art history at the University of Vienna, supervised by Raphael Rosenberg. As an art historian, I work on cross-cultural art perception and the conceptual history of how \"culture\" and \"perception\" have been used across disciplines. As a philosopher, I work on aesthetic imagination and aesthetic judgement."
           imageUrl: /picture.jpg
           imageWidth: 250
           imageHeight: 250
