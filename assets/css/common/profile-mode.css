@@ -20,14 +20,14 @@
     display: flex;
     flex-direction: column;
     align-items: flex-start;
-    gap: 10px;
+    gap: 20px;
 }
 
 /* Profile name */
 
 .profile .profile_inner h1 {
     font-size: 2.5rem;
-    margin-top: 8px;
+    margin-top: 16px;
 }
 
 /* Profile picture */
@@ -41,14 +41,15 @@
 
 .buttons {
     flex-wrap: wrap;
+    margin-top: 8px;
 }
 
 .button {
     background: var(--entry);
     border: 1px solid var(--border);
     border-radius: var(--radius);
-    margin: 6px 12px 6px 0px;
-    padding: 10px;
+    margin: 8px 14px 8px 0px;
+    padding: 12px;
     transition: all 0.15s ease-in-out;
 }
 
