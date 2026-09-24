@@ -38,6 +38,18 @@
     height: auto !important;
 }
 
+/* Profile subtitle links */
+
+.profile .profile_inner span a {
+    color: var(--primary);
+    text-decoration: underline;
+    text-underline-offset: 3px;
+}
+
+.profile .profile_inner span a:hover {
+    opacity: 0.7;
+}
+
 /* Buttons */
 
 .buttons {
