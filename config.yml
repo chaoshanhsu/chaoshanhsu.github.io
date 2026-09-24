@@ -45,8 +45,8 @@ params:
           title: Chao-Shan Hsu
           subtitle: "I am a doctoral researcher in art history at the University of Vienna, working at the intersection of analytic aesthetics, philosophy of perception, and empirical cognitive science. My research investigates the normative and cultural conditions of aesthetic perception—how cultural training shapes the way we see art, and what philosophical consequences follow. I combine eye-tracking methodology with philosophical argumentation."
           imageUrl: /picture.jpg
-          imageWidth: 130
-          imageHeight: 130
+          imageWidth: 180
+          imageHeight: 180
           buttons:
             - name: Research
               url: /research/
