@@ -2,7 +2,7 @@
 title: Profile
 ---
 
-## Position
+## Professional Experience
 
 <div class="entry">
   <div class="entry-date">03/2024 – present</div>
@@ -51,3 +51,5 @@ title: Profile
 ## Languages
 
 English (C1), German (A2), Taiwanese (native), Mandarin (native)
+
+<a href="/cv.pdf" style="display:inline-block; margin-top:2em; font-family:var(--sans); font-size:0.9rem;">Complete CV ↗</a>
