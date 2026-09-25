@@ -1,0 +1,9 @@
+baseURL = "https://chaoshanhsu.github.io/"
+title = "Chao-Shan Hsu"
+
+[markup.goldmark.renderer]
+  unsafe = true
+
+enableRobotsTXT = true
+buildFuture = true
+disableKinds = ["taxonomy", "term", "RSS", "sitemap"]

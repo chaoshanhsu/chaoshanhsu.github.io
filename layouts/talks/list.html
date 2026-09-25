@@ -1,0 +1,17 @@
+{{ define "main" }}
+<h1 class="page-title">Talks</h1>
+<div class="pub-list">
+  {{ range .Pages.ByDate.Reverse }}
+  <div class="pub-card" onclick="this.classList.toggle('open')">
+    <h3>{{ .Title }}</h3>
+    <div class="pub-meta">
+      <span>{{ .Date.Format "January 2006" }}</span>
+      {{ with .Params.venue }}<span>{{ . }}</span>{{ end }}
+      {{ with .Params.status }}<span class="pub-tag">{{ . }}</span>{{ end }}
+    </div>
+    <div class="pub-abstract">{{ .Content }}</div>
+    <button class="pub-toggle" onclick="event.stopPropagation(); this.parentElement.classList.toggle('open');">▾ Details</button>
+  </div>
+  {{ end }}
+</div>
+{{ end }}
