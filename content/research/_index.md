@@ -3,7 +3,7 @@ title: Research
 description: "Overview of Chao-Shan Hsu's research on art perception, analytic aesthetics, and philosophy of perception."
 ---
 
-I work along two lines, both concerned with the conditions of aesthetic perception. The first is empirical and art-historical (§1). The second is philosophical (§2).
+I work along two lines, both concerned with the conditions of aesthetic perception. The first is art-historical (§1). The second is philosophical (§2).
 
 ## 1. Art perception: history, theory, experiment
 
