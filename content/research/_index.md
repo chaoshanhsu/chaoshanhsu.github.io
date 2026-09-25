@@ -17,7 +17,7 @@ Hsu, C.-S., Long, X., & Rosenberg, R. (2026). <b><u><a href="https://visionandde
 
 I am interested in aesthetic perception. It seems different from perception in general, but what the difference consists in is not obvious. I ask what structure aesthetic perception has, and what role imagination plays in it.
 
-A second interest, independent of the first, is the ontology of art. What does it take for a practice to count as art? That question sits inside a much older one: "what is art?", debated for centuries without resolution. I ask whether the older question still matters, and what follows from how we answer it.
+A second interest, independent of the first, is the ontology of art. What does it take for a practice to count as art? That question sits inside a much older one: "what is art?", debated for decades without resolution. I ask whether the older question still matters, and what follows from how we answer it.
 
 Hsu, C.-S. (forthcoming). <b><u><a href="https://philpapers.org/rec/HSUTCF">"The Corrective Feedback Criterion for Aesthetic Acquaintance."</a></u></b> <span class="journal">Estetika: The European Journal of Aesthetics</span>.
 
